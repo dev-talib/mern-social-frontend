@@ -1,0 +1,29 @@
+.PostShare {
+   padding: 5px; 
+   border-radius: 10px;
+}
+.PostShare .PostShare_input{
+    display: flex;
+    padding: 5px;
+}
+.PostShare .PostShare_input img{
+    width: 60px;
+    height: 60px;
+    border-radius: 45%;
+}
+.PostShare .PostShare_input input{
+    width: 100%;
+    border-radius: 10px;
+    font-size: 13px;
+    background: var(--bgColor);
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.PostShare .PostShare_icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 0.5rem;
+    font-size: 20px;
+}

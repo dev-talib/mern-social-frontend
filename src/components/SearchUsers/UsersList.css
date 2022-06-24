@@ -1,0 +1,25 @@
+  .UsersList .Users{
+    margin-top: 50px;
+  }
+  .UsersList .User img{
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+  }
+  
+  .UsersList .User{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+  }
+  
+  .UsersList .User .UserInfo{
+     line-height: 0.5;
+  }
+  
+  .UsersList .follow_btn{
+      height: 2rem;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-top: 5px;
+  }

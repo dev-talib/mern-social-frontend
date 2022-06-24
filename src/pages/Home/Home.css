@@ -1,0 +1,10 @@
+.HomeContainer{
+    min-height: 100vh;
+    overflow-x: hidden;
+    margin-top: 20px;
+}
+
+.HomeContainer .col_2{
+    min-height: 100vh;
+    border-radius: 10px;
+}

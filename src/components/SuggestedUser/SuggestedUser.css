@@ -1,0 +1,29 @@
+.SuggestedUsers {
+  padding: 10px;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.SuggestedUsers .User img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.SuggestedUsers .User{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.SuggestedUsers .User .UserInfo{
+   line-height: 0.5;
+}
+
+.SuggestedUsers .follow_btn{
+    height: 2rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+}
